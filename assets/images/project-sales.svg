@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440">
+  <rect width="800" height="440" fill="#11161d"/>
+  <g fill="none" stroke="#30363d" stroke-width="1"><path d="M0 110h800M0 220h800M0 330h800"/><path d="M160 0v440M320 0v440M480 0v440M640 0v440"/></g>
+  <rect x="55" y="46" width="690" height="348" rx="12" fill="#1c2128" stroke="#30363d"/>
+  <rect x="55" y="46" width="690" height="52" rx="12" fill="#161b22"/>
+  <circle cx="82" cy="72" r="6" fill="#ff6b6b"/><circle cx="102" cy="72" r="6" fill="#f2c94c"/><circle cx="122" cy="72" r="6" fill="#48d597"/>
+  <text x="82" y="132" fill="#8b949e" font-family="Arial" font-size="20">Sales performance</text>
+  <polyline points="92,318 168,274 244,289 320,218 396,246 472,164 548,198 620,132 708,151" fill="none" stroke="#00e5a0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#00e5a0"><circle cx="92" cy="318" r="7"/><circle cx="168" cy="274" r="7"/><circle cx="244" cy="289" r="7"/><circle cx="320" cy="218" r="7"/><circle cx="396" cy="246" r="7"/><circle cx="472" cy="164" r="7"/><circle cx="548" cy="198" r="7"/><circle cx="620" cy="132" r="7"/><circle cx="708" cy="151" r="7"/></g>
+  <rect x="92" y="340" width="616" height="2" fill="#30363d"/>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440">
+  <rect width="800" height="440" fill="#11161d"/>
+  <g fill="none" stroke="#30363d" stroke-width="1"><path d="M0 110h800M0 220h800M0 330h800"/><path d="M160 0v440M320 0v440M480 0v440M640 0v440"/></g>
+  <rect x="55" y="46" width="690" height="348" rx="12" fill="#1c2128" stroke="#30363d"/>
+  <rect x="55" y="46" width="690" height="52" rx="12" fill="#161b22"/>
+  <circle cx="82" cy="72" r="6" fill="#ff6b6b"/><circle cx="102" cy="72" r="6" fill="#f2c94c"/><circle cx="122" cy="72" r="6" fill="#48d597"/>
+  <text x="82" y="132" fill="#8b949e" font-family="Arial" font-size="20">HR analytics</text>
+  <g>
+    <rect x="82" y="160" width="190" height="184" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="104" y="190" fill="#8b949e" font-family="Arial" font-size="14">Workforce overview</text>
+    <rect x="104" y="214" width="28" height="96" rx="4" fill="#a78bfa"/>
+    <rect x="144" y="246" width="28" height="64" rx="4" fill="#00e5a0"/>
+    <rect x="184" y="198" width="28" height="112" rx="4" fill="#69b7ff"/>
+  </g>
+  <g>
+    <rect x="292" y="160" width="210" height="184" rx="8" fill="#161b22" stroke="#30363d"/>
+    <circle cx="397" cy="252" r="64" fill="none" stroke="#30363d" stroke-width="18"/>
+    <circle cx="397" cy="252" r="64" fill="none" stroke="#00e5a0" stroke-width="18" stroke-dasharray="260 402" transform="rotate(-90 397 252)"/>
+  </g>
+  <g>
+    <rect x="522" y="160" width="176" height="184" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="544" y="190" fill="#8b949e" font-family="Arial" font-size="14">Departments</text>
+    <rect x="544" y="214" width="128" height="16" rx="8" fill="#30363d"/><rect x="544" y="214" width="98" height="16" rx="8" fill="#a78bfa"/>
+    <rect x="544" y="252" width="128" height="16" rx="8" fill="#30363d"/><rect x="544" y="252" width="74" height="16" rx="8" fill="#00e5a0"/>
+    <rect x="544" y="290" width="128" height="16" rx="8" fill="#30363d"/><rect x="544" y="290" width="112" height="16" rx="8" fill="#69b7ff"/>
+  </g>
+</svg>

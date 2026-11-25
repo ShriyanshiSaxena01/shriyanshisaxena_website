@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440">
+  <rect width="800" height="440" fill="#11161d"/>
+  <g fill="none" stroke="#30363d" stroke-width="1"><path d="M0 110h800M0 220h800M0 330h800"/><path d="M160 0v440M320 0v440M480 0v440M640 0v440"/></g>
+  <rect x="55" y="46" width="690" height="348" rx="12" fill="#1c2128" stroke="#30363d"/>
+  <rect x="55" y="46" width="690" height="52" rx="12" fill="#161b22"/>
+  <circle cx="82" cy="72" r="6" fill="#ff6b6b"/><circle cx="102" cy="72" r="6" fill="#f2c94c"/><circle cx="122" cy="72" r="6" fill="#48d597"/>
+  <text x="82" y="132" fill="#8b949e" font-family="Arial" font-size="20">customer_behavior.ipynb</text>
+  <g fill="#a78bfa" opacity=".85"><circle cx="140" cy="300" r="8"/><circle cx="180" cy="260" r="11"/><circle cx="240" cy="292" r="7"/><circle cx="290" cy="220" r="13"/><circle cx="350" cy="270" r="9"/><circle cx="410" cy="190" r="15"/><circle cx="470" cy="238" r="10"/><circle cx="520" cy="170" r="12"/><circle cx="590" cy="210" r="8"/><circle cx="650" cy="150" r="14"/></g>
+  <g stroke="#a78bfa" stroke-width="3" opacity=".3"><line x1="140" y1="300" x2="650" y2="150"/><line x1="180" y1="260" x2="590" y2="210"/><line x1="240" y1="292" x2="520" y2="170"/></g>
+  <rect x="82" y="332" width="616" height="2" fill="#30363d"/>
+</svg>

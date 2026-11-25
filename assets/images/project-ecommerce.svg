@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440">
+  <rect width="800" height="440" fill="#11161d"/>
+  <g fill="none" stroke="#30363d" stroke-width="1"><path d="M0 110h800M0 220h800M0 330h800"/><path d="M160 0v440M320 0v440M480 0v440M640 0v440"/></g>
+  <rect x="55" y="46" width="690" height="348" rx="12" fill="#1c2128" stroke="#30363d"/>
+  <rect x="55" y="46" width="690" height="52" rx="12" fill="#161b22"/>
+  <circle cx="82" cy="72" r="6" fill="#ff6b6b"/><circle cx="102" cy="72" r="6" fill="#f2c94c"/><circle cx="122" cy="72" r="6" fill="#48d597"/>
+  <text x="82" y="132" fill="#8b949e" font-family="Arial" font-size="20">orders.sql</text>
+  <g font-family="monospace" font-size="22">
+    <text x="82" y="180" fill="#a78bfa">SELECT</text><text x="168" y="180" fill="#f0f6fc">category, COUNT(*)</text>
+    <text x="82" y="220" fill="#a78bfa">FROM</text><text x="140" y="220" fill="#f0f6fc">orders</text>
+    <text x="82" y="260" fill="#a78bfa">WHERE</text><text x="150" y="260" fill="#f0f6fc">status = 'completed'</text>
+    <text x="82" y="300" fill="#a78bfa">GROUP BY</text><text x="192" y="300" fill="#f0f6fc">category;</text>
+  </g>
+  <rect x="82" y="332" width="238" height="34" rx="17" fill="#00e5a0" opacity=".12"/>
+  <text x="104" y="355" fill="#00e5a0" font-family="Arial" font-size="16">Query executed</text>
+</svg>
